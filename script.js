@@ -37,7 +37,25 @@ $(document).ready(function() {
         timeBlock.addClass('future');
       }
 
-      
+      //Load saved data from localStorage
+    textArea.val(localStorage.getItem('hour-' + hour) || '');
+
+      //Append the hour column, text area & save button to the time block 
+    timeBlock.append(hourCol, textArea, saveBtn);
+
+      //Append the time block to the container 
+    container.append(timeBlock);
+
+      //Create save buttom click event 
+    saveBtn.click(function() {
+      //Save the text area to localStorage
+      var eventText = textArea.val();
+      localStorage.setItem('hour-' + hour. eventText);
+     });
+    });
+    }
+    
+    
 
 
 
