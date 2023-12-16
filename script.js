@@ -53,10 +53,28 @@ $(document).ready(function() {
       localStorage.setItem('hour-' + hour. eventText);
      });
     });
+    
+    
+    //Function to format the hour to display
+    function formatHour(hour) {
+      if(hour > 12) {
+        return (hour - 12) + 'PM';
+      } else {
+        return hour + 'AM';
+      }
     }
     
-    
+    //Call the displayCurrent Day & createTimeBlocks functions
+    displayCurrentDay();
+    currentTimeBlocks();
 
+    //Update the time blocks every minute to check for past, present or future 
+    setInterval(function() {
+      createTimeBlocks();
+    }, 6000);
+  });
+
+//Unsure from here below
 
 
   : Add code to display the current date in the header of the page.
