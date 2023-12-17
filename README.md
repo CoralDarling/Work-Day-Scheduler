@@ -14,14 +14,13 @@ Accurately displayed date and time<br>
 
 Ability to store input data<br>
 
-**##Getting Started**
 
 
 ![image](https://github.com/CoralDarling/Work-Day-Scheduler/assets/109124878/6fa51740-3675-4032-a752-2827c6c4dda5)
 
 
 <br>
-** ##Usage** <br>
+**##Usage**<br>
 
 1. Open the application in a web browser
    
