@@ -6,6 +6,7 @@ A simple calender application that allows a user to save events during a typical
 
 This application demonstrates the usage of HTML, CSS and is powered by jQuery. <br>
 
+
 ##Features<br>
 
 Customizable Criteria<br>
@@ -35,5 +36,5 @@ Ability to store input data<br>
 
 Starter code from https://github.com/coding-boot-camp/crispy-octo-meme<br>
 
-My Bootcamp tutor, Dennis Ota<br>
+My Bootcamp tutor, Dennis Itua<br>
 
