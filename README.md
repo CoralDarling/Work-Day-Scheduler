@@ -21,7 +21,7 @@ Ability to store input data<br>
 
 
 <br>
-**##Usage**<br>
+** ##Usage** <br>
 
 1. Open the application in a web browser
    
