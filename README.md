@@ -14,6 +14,9 @@ This application demonstrates the usage of HTML, CSS and is powered by jQuery. <
 
 **Ability to store input data**<br>
 
+![image](https://github.com/CoralDarling/Work-Day-Scheduler/assets/109124878/6fa51740-3675-4032-a752-2827c6c4dda5)
+
+
 <br>
 ##Usage<br>
 
