@@ -1,6 +1,6 @@
 # Work-Day-Scheduler<br>
 
-***##Overview**<br>
+**##Overview**<br>
 
 A simple calender application that allows a user to save events during a typical 9-5 working day. <br>
 
