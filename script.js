@@ -77,8 +77,8 @@ $(document).ready(function() {
 //Unsure from here below
 
 
-  : Add code to display the current date in the header of the page.
-});
+//  : Add code to display the current date in the header of the page.
+//});
 console.log($(this))
 $( document ).ready(function(){
   console.log($(this)) 
